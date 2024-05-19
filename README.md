@@ -1,3 +1,8 @@
+# Example of a Next.js app set up with Page UI
+See more on [Page UI](https://page-ui.dev/)
+
+---------
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

@@ -28,3 +28,12 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+## Made with Shipixen 💜
+<a href="https://shipixen.com" target="_blank">
+  <img height="120px" src="https://user-images.githubusercontent.com/1515742/281071510-d5c0095d-d336-4857-ad80-d18cf65f4acb.png" alt="Shipixen Logo" />
+</a>
+
+Shipixen an app to generate customized boilerplates for your product.<br/> Or any website. We generate it & deploy it - then you get the code.
+
+[shipixen.com](https://shipixen.com)

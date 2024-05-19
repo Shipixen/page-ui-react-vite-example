@@ -1,4 +1,4 @@
-# Example of a Next.js app set up with Page UI
+# Example of a React.js + Vite app set up with Page UI
 See more on [Page UI](https://page-ui.dev/)
 
 ---------
